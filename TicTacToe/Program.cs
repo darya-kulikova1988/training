@@ -11,10 +11,10 @@ void Instruction()
 {
     Console.Clear();
     Console.WriteLine("Привет дорогой друг и будущий соперник ;-)");
-    Console.WriteLine("мы начинаем играть в крестики-нолики.");
+    Console.WriteLine("Мы начинаем играть в крестики-нолики.");
     Console.WriteLine("Ходим по очереди, первый играет Крестиками, второй Ноликами.");
     Console.WriteLine("После нажатия Enter/Return начнется игра");
-    Console.WriteLine("и тебе нужно будет выбрать клетку в которую ты сделаешь ход.");
+    Console.WriteLine("и тебе нужно будет выбрать клетку, в которую ты сделаешь ход.");
     Console.WriteLine();
     Console.WriteLine("Так как наша доска имеет размерность 3x3,");
     Console.WriteLine("то и каждая клетка имеет номер, состоящий из двух символов.");
