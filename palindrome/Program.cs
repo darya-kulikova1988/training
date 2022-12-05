@@ -1,4 +1,8 @@
-﻿Console.WriteLine("Введите слово: ");
+﻿// может ли слово стать палиндромом?
+// количество отличных от повторяющихся символов не более одного
+
+
+Console.WriteLine("Введите слово: ");
 string word = Console.ReadLine().ToLower()!;
 // char[] array = new char[word.Length];
 // for (int i = 0; i < word.Length; i++) 
